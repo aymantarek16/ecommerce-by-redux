@@ -1,6 +1,6 @@
 # Eccomerce by redux
 
-Full Eccomerce Responseve Design with redux
+Full Eccomerce Responsive Design with redux
 
 ### Technologies Used:
 
@@ -14,5 +14,5 @@ Full Eccomerce Responseve Design with redux
 6. node.js
 
 
-![preview] (https://www4.0zz0.com/2023/12/30/14/966080828.png)
+![preview](https://www4.0zz0.com/2023/12/30/14/966080828.png)
 
